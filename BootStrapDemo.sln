@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootStrapDemo", "BootStrapDemp\BootStrapDemo.csproj", "{50919CB6-0BC6-43C2-8E65-D9D0E1DA013E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50919CB6-0BC6-43C2-8E65-D9D0E1DA013E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50919CB6-0BC6-43C2-8E65-D9D0E1DA013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50919CB6-0BC6-43C2-8E65-D9D0E1DA013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50919CB6-0BC6-43C2-8E65-D9D0E1DA013E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
